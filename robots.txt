@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://madihakamran8155-spec.github.io/Bareera12345/sitemap.xml
